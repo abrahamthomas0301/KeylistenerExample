@@ -1,2 +1,2 @@
 # KeylistenerExample
-Simple imolementation of key listener in java
+Simple implementation of key listener in java
